@@ -15,7 +15,7 @@
 ## 사용법
 1. 레포지토리 클론 또는 다운로드
 Git 명령어를 사용해 레포지토리를 클론하거나, ZIP 파일로 다운로드 받아 로컬 환경에서 확인할 수 있습니다.
-(git clone https://github.com/username/repository-name.git)
+(https://github.com/YunMinsu0494/Python-project/tree/main)
 
 
 2. 학습 및 실습
